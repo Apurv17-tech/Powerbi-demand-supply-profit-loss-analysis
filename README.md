@@ -32,16 +32,6 @@ The report tracks product **demand vs. availability** and the resulting **profit
 
 This mirrors a realistic scenario: prototype against a test database, then cut over to production and even swap the underlying data source (SQL Server → MySQL) without rebuilding the report from scratch.
 
-## Repo Contents
-
-```
-├── PROD_PowerBI_Report.pbix    # Final Power BI report (production data source)
-├── docs/
-│   ├── course-outline-part1.png   # Build steps 443–449
-│   └── course-outline-part2.png   # Build steps 450–457
-└── README.md
-```
-
 ## Tools Used
 
 - MySQL Server & MySQL Workbench
